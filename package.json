@@ -1,0 +1,24 @@
+{
+  "name": "transactions-test-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "mocha test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ucozlab@github.com/ucozlab/transactions-test-task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ucozlab/transactions-test-task/issues"
+  },
+  "homepage": "https://github.com/ucozlab/transactions-test-task#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  }
+}
